@@ -36,8 +36,14 @@ p{
 }
 .subtitle{
     font-size:120px;
-    font-family:sans-serif;
+    font-family:cursive;
     color:#CDBB9A;
+}
+p.ptext{
+    font-family:Caveat;
+    font-size:100px;
+}
+    
 .myimg{
     display: flex;
     margin-left: 360px;

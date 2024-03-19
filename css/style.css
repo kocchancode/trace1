@@ -29,7 +29,7 @@ p{
 }
 /*2段目*/
 
-img.mytext{
+.mytext{
     position:relative;
     left: 100px;
     top:100px;
@@ -53,8 +53,12 @@ img.mytext{
     width:720px;
     font-size: 32px;
     text-align: center;
+    display:flex;
+    align-items:fix-end;
 }
 .text3{
     font-size: 32px;
     margin-right: 50px;
+    display:flex;
+    align-items:fix-end;
 }

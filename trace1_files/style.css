@@ -28,13 +28,16 @@ p{
     margin:170px 0px ;
 }
 /*2段目*/
-
-img.mytext{
+.mytext{
     position:relative;
     left: 100px;
     top:100px;
     z-index: 1; 
 }
+.subtitle{
+    font-size:120px;
+    font-family:sans-serif;
+    color:#CDBB9A;
 .myimg{
     display: flex;
     margin-left: 360px;

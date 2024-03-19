@@ -58,15 +58,15 @@ p.ptext{
     height: 260px;
     margin-top: 120px;
 }
-.text2{
+p.text2{
     width:720px;
     font-size: 32px;
     text-align: center;
-    display: flex;
+    display:flex;
     align-items: flex-end;
     margin-bottom:0px;
 }
-.text3{
+p.text3{
     font-size: 32px;
     margin-right: 50px;
     display: flex;

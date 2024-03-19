@@ -62,12 +62,14 @@ p.ptext{
     width:720px;
     font-size: 32px;
     text-align: center;
-     display: flex;
+    display: flex;
     align-items: flex-end;
+    margin-bottom:0px;
 }
 .text3{
     font-size: 32px;
     margin-right: 50px;
-       display: flex;
+    display: flex;
     align-items: flex-end;
+    margin-bottom:0px;
 }
